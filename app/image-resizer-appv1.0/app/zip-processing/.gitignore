@@ -1,0 +1,17 @@
+# Ignore output files
+output/
+*.zip
+
+__pycache__/
+*.pyc
+
+__pycache__/
+# new
+.pytest_cache/
+*.pyc
+
+# compiled Python bytecode files new!
+*.pyo
+
+# new
+.venv/

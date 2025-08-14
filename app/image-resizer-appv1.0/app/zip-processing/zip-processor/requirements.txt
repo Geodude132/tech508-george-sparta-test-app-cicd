@@ -1,0 +1,4 @@
+confluent-kafka
+pillow
+requests
+python-json-logger
