@@ -1,9 +1,0 @@
-uploads/
-__pycache__/
-# new
-.pytest_cache/
-# new
-.venv/
-*.pyc
-# new
-*.pyo
